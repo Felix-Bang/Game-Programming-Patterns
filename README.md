@@ -2,7 +2,9 @@
 
 ### 游戏编程模式
 
-中文版[《游戏编程模式》](http://gpp.tkchu.me/acknowledgements.html)         英文版[《Game Programming Patterns》](http://gameprogrammingpatterns.com/) 
+中文版[《游戏编程模式》](http://gpp.tkchu.me/acknowledgements.html)  
+       
+英文版[《Game Programming Patterns》](http://gameprogrammingpatterns.com/) 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
