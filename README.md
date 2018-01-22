@@ -10,4 +10,4 @@
 英文文档[《Documentation》](https://git-scm.com/doc)
 
 ### Markdown
-[《Markdown》](http://wowubuntu.com/markdown/basic.html)
+中文[《Markdown》](http://wowubuntu.com/markdown/basic.html)
