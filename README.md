@@ -1,10 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Felix-Bang/Game-Programming-Patterns/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 游戏编程模式
+Game Programming Patterns 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
